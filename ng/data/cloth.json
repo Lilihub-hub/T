@@ -23672,5 +23672,23 @@
             {"id":14031, "colors":["yellow"]}
         ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nEaster 2026"},
         "releaseDate":"2026-03-26"
+    },
+    {
+        "groupId":14012, "zone":"face", "category":"makeup", "security":"a22b0ee4b3a224f7", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Makeup",
+        "outfitName":"Spring Daisy",
+        "variations":[
+            {"id":14012, "colors":["red"]},
+            {"id":14013, "colors":["white"]},
+            {"id":14014, "colors":["black"]},
+            {"id":14015, "colors":["purple"]},
+            {"id":14016, "colors":["orange"]},
+            {"id":14017, "colors":["blue"]},
+            {"id":14018, "colors":["green"]},
+            {"id":14019, "colors":["pink"]},
+            {"id":14020, "colors":["brown"]},
+            {"id":14021, "colors":["yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nEaster 2026"},
+        "releaseDate":"2026-03-26"
     }
 ]
