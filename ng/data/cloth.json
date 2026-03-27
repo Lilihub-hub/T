@@ -23661,15 +23661,15 @@
         "outfitName":"Spring Daisy",
         "variations":[
             {"id":14022, "colors":["red"]},
-            {"id":12890, "colors":["white"]},
-            {"id":12891, "colors":["black"]},
-            {"id":12892, "colors":["purple"]},
-            {"id":12893, "colors":["orange"]},
-            {"id":12894, "colors":["blue"]},
-            {"id":12895, "colors":["green"]},
-            {"id":12896, "colors":["pink"]},
-            {"id":12897, "colors":["brown"]},
-            {"id":12898, "colors":["yellow"]}
+            {"id":14023, "colors":["white"]},
+            {"id":14024, "colors":["black"]},
+            {"id":14025, "colors":["purple"]},
+            {"id":14026, "colors":["orange"]},
+            {"id":14027, "colors":["blue"]},
+            {"id":14028, "colors":["green"]},
+            {"id":14029, "colors":["pink"]},
+            {"id":14030, "colors":["brown"]},
+            {"id":14031, "colors":["yellow"]}
         ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nEaster 2026"},
         "releaseDate":"2026-03-26"
     }
