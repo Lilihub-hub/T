@@ -23726,5 +23726,23 @@
             {"id":13991, "colors":["yellow"]}
         ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nEaster 2026"},
         "releaseDate":"2026-03-26"
+    },
+    {
+        "groupId":14002, "zone":"arms", "category":"bag", "security":"c4ea2129c68ce57a", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Chocolate Egg",
+        "outfitName":"Spring Daisy",
+        "variations":[
+            {"id":14002, "colors":["red"]},
+            {"id":14003, "colors":["white"]},
+            {"id":14004, "colors":["black"]},
+            {"id":14005, "colors":["purple"]},
+            {"id":14006, "colors":["orange"]},
+            {"id":14007, "colors":["blue"]},
+            {"id":14008, "colors":["green"]},
+            {"id":14009, "colors":["pink"]},
+            {"id":14010, "colors":["brown"]},
+            {"id":14011, "colors":["yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nEaster 2026"},
+        "releaseDate":"2026-03-26"
     }
 ]
