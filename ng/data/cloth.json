@@ -23744,5 +23744,23 @@
             {"id":14011, "colors":["yellow"]}
         ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nEaster 2026"},
         "releaseDate":"2026-03-26"
+    },
+    {
+        "groupId":13992, "zone":"arms", "category":"bag", "security":"0de7f2ebbb00ba68", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Purse",
+        "outfitName":"Spring Daisy",
+        "variations":[
+            {"id":13992, "colors":["red"]},
+            {"id":13993, "colors":["white"]},
+            {"id":13994, "colors":["black"]},
+            {"id":13995, "colors":["purple"]},
+            {"id":13996, "colors":["orange"]},
+            {"id":13997, "colors":["blue"]},
+            {"id":13998, "colors":["green"]},
+            {"id":13999, "colors":["pink"]},
+            {"id":14000, "colors":["brown"]},
+            {"id":14001, "colors":["yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nEaster 2026"},
+        "releaseDate":"2026-03-26"
     }
 ]
