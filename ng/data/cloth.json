@@ -23690,5 +23690,23 @@
             {"id":14021, "colors":["yellow"]}
         ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nEaster 2026"},
         "releaseDate":"2026-03-26"
+    },
+    {
+        "groupId":13962, "zone":"torso", "category":"top", "security":"68d3f220edc6b1fb", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Top",
+        "outfitName":"Spring Daisy",
+        "variations":[
+            {"id":13962, "colors":["red"]},
+            {"id":13963, "colors":["white"]},
+            {"id":13964, "colors":["black"]},
+            {"id":13965, "colors":["purple"]},
+            {"id":13966, "colors":["orange"]},
+            {"id":13967, "colors":["blue"]},
+            {"id":13968, "colors":["green"]},
+            {"id":13969, "colors":["pink"]},
+            {"id":13970, "colors":["brown"]},
+            {"id":13971, "colors":["yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nEaster 2026"},
+        "releaseDate":"2026-03-26"
     }
 ]
