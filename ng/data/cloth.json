@@ -23762,5 +23762,23 @@
             {"id":14001, "colors":["yellow"]}
         ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nEaster 2026"},
         "releaseDate":"2026-03-26"
+    },
+    {
+        "groupId":13972, "zone":"waistToKnee", "category":"skirt", "security":"62ece5edf3d42b0c", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Skirt",
+        "outfitName":"Spring Daisy",
+        "variations":[
+            {"id":13972, "colors":["red"]},
+            {"id":13973, "colors":["white"]},
+            {"id":13974, "colors":["black"]},
+            {"id":13975, "colors":["purple"]},
+            {"id":13976, "colors":["orange"]},
+            {"id":13977, "colors":["blue"]},
+            {"id":13978, "colors":["green"]},
+            {"id":13979, "colors":["pink"]},
+            {"id":13980, "colors":["brown"]},
+            {"id":13981, "colors":["yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nEaster 2026"},
+        "releaseDate":"2026-03-26"
     }
 ]
