@@ -23780,5 +23780,23 @@
             {"id":13981, "colors":["yellow"]}
         ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nEaster 2026"},
         "releaseDate":"2026-03-26"
+    },
+    {
+        "groupId":13942, "zone":"feet", "category":"shoes", "security":"bcd8e3e6fe6cf9dd", "multiLayered":false, "layerBehavior":"normal",
+        "name":"Shoes",
+        "outfitName":"Spring Daisy",
+        "variations":[
+            {"id":13942, "colors":["red"]},
+            {"id":13943, "colors":["white"]},
+            {"id":13944, "colors":["black"]},
+            {"id":13945, "colors":["purple"]},
+            {"id":13946, "colors":["orange"]},
+            {"id":13947, "colors":["blue"]},
+            {"id":13948, "colors":["green"]},
+            {"id":13949, "colors":["pink"]},
+            {"id":13950, "colors":["brown"]},
+            {"id":13951, "colors":["yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nEaster 2026"},
+        "releaseDate":"2026-03-26"
     }
 ]
