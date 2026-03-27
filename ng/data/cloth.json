@@ -23816,5 +23816,23 @@
             {"id":14041, "colors":["yellow"]}
         ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nEaster 2026"},
         "releaseDate":"2026-03-26"
+    },
+    {
+        "groupId":13952, "zone":"general", "category":"other", "security":"a07b3a823af8dd1f", "multiLayered":true, "layerBehavior":"normal",
+        "name":"Easter Eggs",
+        "outfitName":"Spring Daisy",
+        "variations":[
+            {"id":13952, "colors":["red"]},
+            {"id":13953, "colors":["white"]},
+            {"id":13954, "colors":["black"]},
+            {"id":13955, "colors":["purple"]},
+            {"id":13956, "colors":["orange"]},
+            {"id":13957, "colors":["blue"]},
+            {"id":13958, "colors":["green"]},
+            {"id":13959, "colors":["pink"]},
+            {"id":13960, "colors":["brown"]},
+            {"id":13961, "colors":["yellow"]}
+        ], "criteria":{"type":"gameEvent", "info":"easter-2026", "text":"Desbloqueado durante el evento\nEaster 2026"},
+        "releaseDate":"2026-03-26"
     }
 ]
